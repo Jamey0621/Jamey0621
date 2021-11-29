@@ -1,4 +1,4 @@
- ![I'm your next Developer ](https://media-exp1.licdn.com/dms/image/C4E16AQGbs8_pB-_oqw/profile-displaybackgroundimage-shrink_200_800/0/1612444428880?e=1631145600&v=beta&t=RZYItVeSAg9fotP_j7ihHvkJt8isX5Z3GTRnCaPewMA)
+ ![I'm your next Developer ]
 # Hi there 👋, my name is Jamey Geoghagan
 # I'm your next Developer
 I am a well rounded developer. I really enjoy learning new languages and frameworks. I also enjoy all different kinds of development from web dev all the way to game development. I have the drive and passion to be a developer.
