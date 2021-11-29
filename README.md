@@ -1,4 +1,4 @@
- ![I'm your next Developer ]
+ [I'm your next Developer ]
 # Hi there 👋, my name is Jamey Geoghagan
 # I'm your next Developer
 I am a well rounded developer. I really enjoy learning new languages and frameworks. I also enjoy all different kinds of development from web dev all the way to game development. I have the drive and passion to be a developer.
